@@ -1,0 +1,92 @@
+[
+  {
+    "pais": "India",
+    "region": "Asia",
+    "idioma_principal": "Hindi / Inglés",
+    "nivel_ingreso_bm": "Medio-bajo"
+  },
+  {
+    "pais": "United States",
+    "region": "América del Norte",
+    "idioma_principal": "Inglés",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "Canada",
+    "region": "América del Norte",
+    "idioma_principal": "Inglés / Francés",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "Pakistan",
+    "region": "Asia",
+    "idioma_principal": "Urdu / Inglés",
+    "nivel_ingreso_bm": "Medio-bajo"
+  },
+  {
+    "pais": "United Kingdom",
+    "region": "Europa",
+    "idioma_principal": "Inglés",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "Philippines",
+    "region": "Asia",
+    "idioma_principal": "Filipino / Inglés",
+    "nivel_ingreso_bm": "Medio-bajo"
+  },
+  {
+    "pais": "Brazil",
+    "region": "América del Sur",
+    "idioma_principal": "Portugués",
+    "nivel_ingreso_bm": "Medio-alto"
+  },
+  {
+    "pais": "Australia",
+    "region": "Oceanía",
+    "idioma_principal": "Inglés",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "Nigeria",
+    "region": "África",
+    "idioma_principal": "Inglés",
+    "nivel_ingreso_bm": "Medio-bajo"
+  },
+  {
+    "pais": "Germany",
+    "region": "Europa",
+    "idioma_principal": "Alemán",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "France",
+    "region": "Europa",
+    "idioma_principal": "Francés",
+    "nivel_ingreso_bm": "Alto"
+  },
+  {
+    "pais": "Kenya",
+    "region": "África",
+    "idioma_principal": "Suajili / Inglés",
+    "nivel_ingreso_bm": "Medio-bajo"
+  },
+  {
+    "pais": "Colombia",
+    "region": "América del Sur",
+    "idioma_principal": "Español",
+    "nivel_ingreso_bm": "Medio-alto"
+  },
+  {
+    "pais": "Mexico",
+    "region": "América del Norte",
+    "idioma_principal": "Español",
+    "nivel_ingreso_bm": "Medio-alto"
+  },
+  {
+    "pais": "Spain",
+    "region": "Europa",
+    "idioma_principal": "Español",
+    "nivel_ingreso_bm": "Alto"
+  }
+]
